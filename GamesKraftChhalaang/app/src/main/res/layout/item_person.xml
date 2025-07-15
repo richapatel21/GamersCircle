@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="16dp"
+    android:background="@drawable/appthemegredient">
+
+    <TextView
+        android:id="@+id/personNameTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:layout_gravity="center_vertical"
+        android:layout_margin="2dp"
+        android:layout_weight="1"
+        android:text="placeholder: User1"
+        android:textColor="@color/black"
+        android:elevation="3dp"/>
+
+    <Button
+        android:id="@+id/add_person"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:layout_margin="2dp"
+
+        android:text="Add"/>
+
+    <Button
+        android:id="@+id/delete_person"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:visibility="gone"
+        android:layout_margin="2dp"
+        android:text="Remove"/>
+
+    <Button
+        android:id="@+id/block_person"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:layout_margin="2dp"
+        android:text="Block"/>
+
+</LinearLayout>

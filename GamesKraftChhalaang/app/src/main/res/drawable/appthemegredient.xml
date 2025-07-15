@@ -1,0 +1,8 @@
+<!-- res/drawable/black_orange_gradient.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <gradient
+        android:angle="60"
+        android:endColor="#91B96A"
+        android:startColor="#69A2A9" />
+</shape>

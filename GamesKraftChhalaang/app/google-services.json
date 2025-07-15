@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "726491148969",
+    "project_id": "loginregistrationauthapp",
+    "storage_bucket": "loginregistrationauthapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726491148969:android:c644ae3cd299979c15efb8",
+        "android_client_info": {
+          "package_name": "com.godspeed.gameskraftchhalaang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726491148969-bogtectsmctllfikuvn3btfe7uj02ne9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiXRCc3aZ-YrxNrQDZjdZpVngXmqCgsyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726491148969-bogtectsmctllfikuvn3btfe7uj02ne9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
